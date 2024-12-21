@@ -36,3 +36,4 @@ Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela exp
 
 # Resposta ao Desafio
 
+[Projeto Ecommerce Refinado](https://github.com/rodolforoberto/Projeto-Logico-Ecommerce/tree/main/Projeto%20L%C3%B3gico%20-%20Ecommerce)
